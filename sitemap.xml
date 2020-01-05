@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://pirmansyah/post/awal-mula-mengenal-dunia-it/</loc>
+    <lastmod>2020-01-05T12:47:21+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pirmansyah/</loc>
+    <lastmod>2020-01-05T12:47:21+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pirmansyah/post/</loc>
+    <lastmod>2020-01-05T12:47:21+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pirmansyah/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://pirmansyah/tags/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,24 @@
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+   <title>Tags on Pirmansyah</title>
+   <link>http://pirmansyah/tags/</link>
+   <description>Recent content in Tags on Pirmansyah</description>
+   <generator>Hugo -- gohugo.io</generator>
+   <language>en-us</language>
+   
+       <atom:link href="http://pirmansyah/tags/index.xml" rel="self" type="application/rss+xml" />
+   
+   
+     <item>
+       <title>Awal Mula Mengenal Dunia IT</title>
+       <link>http://pirmansyah/post/awal-mula-mengenal-dunia-it/</link>
+       <pubDate>Sun, 05 Jan 2020 12:47:21 +0700</pubDate>
+       
+       <guid>http://pirmansyah/post/awal-mula-mengenal-dunia-it/</guid>
+       <description>&lt;p&gt;Hai nama saya pirmansyah, hai&lt;/p&gt;
+</description>
+     </item>
+   
+ </channel>
+</rss>
